@@ -1,0 +1,4 @@
+boto3>=1.26          # infra layer (preinstalled in AWS CloudShell)
+psycopg2-binary>=2.9 # postgres
+PyMySQL>=1.0         # mysql
+oracledb>=1.4        # oracle (thin mode, no Instant Client)
